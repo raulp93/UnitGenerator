@@ -8,7 +8,7 @@ def getUnit():
     """ Gets a random number and uses it to choose a random unit"""
     # using the Random Number Microservice API
     # 
-    # change the file names below to the complete file directory of where the Request.txt file is locatated
+    # change the file names below to the complete file directory of where the Request.txt file is located
     # that gets written to from the RandomNumberGenerator.py file
 
     
